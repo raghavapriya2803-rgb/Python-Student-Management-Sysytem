@@ -1,0 +1,23 @@
+[
+    {
+        "id": "101",
+        "name": "Priya",
+        "age": 21,
+        "branch": "ECE",
+        "marks": 90.0
+    },
+    {
+        "id": "102",
+        "name": "Anjali",
+        "age": 22,
+        "branch": "CSE",
+        "marks": 85.0
+    },
+    {
+        "id": "103",
+        "name": "Rahul",
+        "age": 20,
+        "branch": "ECE",
+        "marks": 65.0
+    }
+]
